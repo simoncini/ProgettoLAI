@@ -1,0 +1,14 @@
+[
+  {
+    "ID": "HO0",
+    "name": "Hagoromo Otsotsuki",
+    "items": [
+      "Item1",
+      "Item2"
+    ],
+    "reinforcements": [
+      "none"
+    ],
+    "img": "icona.png"
+  }
+]
